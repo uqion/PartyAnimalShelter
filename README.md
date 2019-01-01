@@ -1,3 +1,10 @@
-"# PartyAnimalShelter" 
+Party Animal Shelter
+
+This project aimed to create a database application with a multi-user interface for a pet rescue center. The database platform MySQL was utilized via the PHP based application PhpMyAdmin, with programming/markup langauges HTML, LESS, JavaScript used on the client-side and PHP, Twig Templates used on the server-side. 
+
 
 ![image](https://user-images.githubusercontent.com/31422704/50576647-18f8ee00-0dcb-11e9-8a91-517a59c8f9b0.png)
+
+![image](https://user-images.githubusercontent.com/31422704/50576664-8c026480-0dcb-11e9-875c-225cb47aa110.png)
+
+Final project for CPSC 2221 Database Systems
